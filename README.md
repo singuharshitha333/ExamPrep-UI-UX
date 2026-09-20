@@ -2,29 +2,35 @@
 
 ExamPrep is a **mobile UI/UX design concept** created in Figma for students preparing for competitive and academic examinations.
 
-The project focuses on creating a simple, structured, and user-friendly experience for students to access exams, track their progress, and view examination details.
+The project focuses on creating a clean, simple, and user-friendly experience that allows students to access examinations, view their progress, and review exam information before starting a test.
+
+---
 
 ## 🎯 Project Overview
 
-ExamPrep was designed as a UI/UX practice project to explore:
+ExamPrep was created as a UI/UX practice project to explore mobile application interface design and Figma prototyping.
 
-- Mobile application interface design
-- User-friendly navigation
-- Information hierarchy
-- Consistent typography and spacing
+The project focuses on:
+
+- Mobile UI design
+- User flow
+- Visual hierarchy
+- Consistent spacing and typography
 - Dashboard design
 - Exam information presentation
-- Basic prototyping and user flow
+- Basic wireframing and prototyping
 
-The project currently includes three key screens covering the basic student journey from login to accessing an examination.
+The current design consists of three main screens representing a basic student journey from login to accessing an examination.
+
+---
 
 ## 📱 Screens Designed
 
 ### 1. Login Screen
 
-A simple login interface designed to provide students with a clear entry point into the application.
+The Login Screen provides a simple entry point for students to access the application.
 
-**Includes:**
+**Key elements:**
 - Welcome message
 - Email / phone input
 - Password field
@@ -32,52 +38,71 @@ A simple login interface designed to provide students with a clear entry point i
 - Login button
 - Sign-up option
 
+![ExamPrep Login Screen](images/Login%20Screen.png)
+
+---
+
 ### 2. Student Dashboard
 
-A dashboard designed to give students an overview of their examination preparation.
+The Student Dashboard provides an overview of the student's examination preparation and upcoming activities.
 
-**Includes:**
-- Student greeting
+**Key elements:**
+- Personalized greeting
 - Upcoming examination
 - Exam information
 - Subject-wise progress
 - Recent results
 - Bottom navigation
 
+![ExamPrep Student Dashboard](images/Student%20Dashboard.png)
+
+---
+
 ### 3. Exam Details
 
-A dedicated screen providing important information before starting an examination.
+The Exam Details Screen provides important information that students can review before starting an examination.
 
-**Includes:**
+**Key elements:**
 - Exam title
 - Number of questions
-- Duration
+- Exam duration
 - Negative marking information
 - Exam topics
 - Instructions
 - Start Exam button
 
+![ExamPrep Exam Details](images/Exam%20Details.png)
+
+---
+
 ## 🛠️ Tools Used
 
-- **Figma** – UI design, wireframing and prototyping
-- **Figma Prototype** – Interactive navigation between screens
+- **Figma** – UI design and prototyping
+- **Figma Prototype** – Interactive screen navigation
+
+---
 
 ## 🎨 Design Focus
 
-The design focuses on:
+The interface was designed with an emphasis on:
 
 - Clean and simple layouts
-- Clear visual hierarchy
-- Consistent UI components
-- Easy-to-understand information
-- Student-focused navigation
-- Consistent spacing and typography
+- Clear information hierarchy
+- Consistent typography
+- Consistent spacing
+- Easy-to-understand navigation
+- Student-focused design
+- Consistent UI elements across screens
 
-## 🔗 Figma Prototype
+---
 
-**View the interactive prototype:**
+## 🔗 Interactive Figma Prototype
 
-[View ExamPrep Prototype](https://www.figma.com/proto/YnogM9nr76x1hLF7bu5XCn/ExamPrep?node-id=0-1&t=zjya3AQKlaYaulKt-1)
+Explore the complete interactive prototype:
+
+**[View ExamPrep Prototype](https://www.figma.com/proto/YnogM9nr76x1hLF7bu5XCn/ExamPrep?node-id=0-1&t=zjya3AQKlaYaulKt-1)**
+
+---
 
 ## 📂 Project Structure
 
@@ -85,42 +110,30 @@ The design focuses on:
 ExamPrep/
 │
 ├── images/
-│   ├── login.png
-│   ├── dashboard.png
-│   └── exam-details.png
+│   ├── Login Screen.png
+│   ├── Student Dashboard.png
+│   └── Exam Details.png
 │
 └── README.md
 ```
 
-## 🖼️ Design Screens
+---
 
-### Login Screen
+## 💡 Project Purpose
 
-![ExamPrep Login Screen](<img width="390" height="844" alt="Login Screen" src="https://github.com/user-attachments/assets/da35d492-0f4d-42d3-af3a-81e19f730717" />
-)
+ExamPrep was created as a **UI/UX design practice project** to strengthen my understanding of mobile interface design, visual hierarchy, user flow, and Figma prototyping.
 
-### Student Dashboard
+The project also reflects my interest in combining my Computer Science background with creative and user-focused digital experiences.
 
-![ExamPrep Dashboard](<img width="390" height="844" alt="Student Dashboard" src="https://github.com/user-attachments/assets/468a6cea-b876-4519-856e-6ee447d18b85" />
-)
-
-### Exam Details
-
-![ExamPrep Exam Details](<img width="390" height="844" alt="Exam Details" src="https://github.com/user-attachments/assets/2d152c5e-95b0-4beb-bc52-337b292996aa" />
-)
-
-## 📌 Project Purpose
-
-This project was created as a **UI/UX design practice project** to strengthen my understanding of mobile interface design, visual hierarchy, user flow, and Figma prototyping.
-
-It also demonstrates my interest in combining my Computer Science background with creative and user-focused digital design.
+---
 
 ## 👩‍💻 Designed By
 
-**Singu Harshitha**  
+**Singu Harshitha**
+
 B.Tech – Computer Science and Business Systems  
 Jansons Institute of Technology, Coimbatore
 
 ---
 
-⭐ This project is created for educational and portfolio purposes.
+⭐ Created for educational and portfolio purposes.
