@@ -96,15 +96,18 @@ ExamPrep/
 
 ### Login Screen
 
-![ExamPrep Login Screen](images/login.png)
+![ExamPrep Login Screen](<img width="390" height="844" alt="Login Screen" src="https://github.com/user-attachments/assets/da35d492-0f4d-42d3-af3a-81e19f730717" />
+)
 
 ### Student Dashboard
 
-![ExamPrep Dashboard](images/dashboard.png)
+![ExamPrep Dashboard](<img width="390" height="844" alt="Student Dashboard" src="https://github.com/user-attachments/assets/468a6cea-b876-4519-856e-6ee447d18b85" />
+)
 
 ### Exam Details
 
-![ExamPrep Exam Details](images/exam-details.png)
+![ExamPrep Exam Details](<img width="390" height="844" alt="Exam Details" src="https://github.com/user-attachments/assets/2d152c5e-95b0-4beb-bc52-337b292996aa" />
+)
 
 ## 📌 Project Purpose
 
